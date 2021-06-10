@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>podcast - Tag - uBlogger</title>
+        <link>https://fenryrmkiii.github.io/tags/podcast/</link>
+        <description>podcast - Tag - uBlogger</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://fenryrmkiii.github.io/tags/podcast/" rel="self" type="application/rss+xml" /><item>
+    <title>Huberman podcast - Episode 1</title>
+    <link>https://fenryrmkiii.github.io/episode1/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>upagge.en</author>
+    <guid>https://fenryrmkiii.github.io/episode1/</guid>
+    <description><![CDATA[This is a post]]></description>
+</item></channel>
+</rss>
