@@ -11,6 +11,15 @@
                     hreflang="fr"
                     href="/categories/"
                     /></url><url>
+            <loc>/categories/documentation/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/en/categories/documentation/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="fr"
+                    href="/categories/documentation/"
+                    /></url><url>
             <loc>/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"

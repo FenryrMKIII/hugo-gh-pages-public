@@ -6,8 +6,8 @@
             <loc>/en/theme-documentation-extended-shortcodes/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
             <loc>/en/basic-markdown-syntax/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
             <loc>/en/emoji-support/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>/en/about/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>/en/categories/</loc><lastmod>2021-06-10T21:54:46&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
+            <loc>/en/about/</loc><lastmod>2021-06-24T21:37:44&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/en/categories/</loc><lastmod>2021-06-24T21:37:44&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="fr"
                         href="/categories/"
@@ -17,9 +17,18 @@
                     href="/en/categories/"
                     /></url><url>
             <loc>/en/tags/configuration/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>/en/categories/documentation/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="/categories/documentation/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="/en/categories/documentation/"
+                    /></url><url>
             <loc>/en/tags/installation/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>/en/posts/</loc><lastmod>2021-06-10T21:54:46&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>/en/tags/</loc><lastmod>2021-06-10T21:54:46&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
+            <loc>/en/posts/</loc><lastmod>2021-06-24T21:37:44&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/en/tags/</loc><lastmod>2021-06-24T21:37:44&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="fr"
                         href="/tags/"
@@ -29,7 +38,7 @@
                     href="/en/tags/"
                     /></url><url>
             <loc>/en/theme-documentation-basics/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>/en/</loc><lastmod>2021-06-10T21:54:46&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
+            <loc>/en/</loc><lastmod>2021-06-24T21:37:44&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="fr"
                         href="/"
@@ -45,12 +54,11 @@
             <loc>/en/tags/html/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
             <loc>/en/categories/markdown/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
             <loc>/en/tags/emoji/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>/en/respiration/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/en/respiration/</loc><lastmod>2021-06-24T21:37:44&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/en/%C3%A9coute-de-soi/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/en/categories/documentation/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
             <loc>/en/tags/fight/flight/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/en/categories/fondations/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/en/posts/fondations/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/en/categories/fondations/</loc><lastmod>2021-06-24T21:37:44&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/en/posts/fondations/</loc><lastmod>2021-06-24T21:37:44&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/en/tags/huberman/</loc><lastmod>2021-06-10T21:54:46&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
             <loc>/en/episode1/</loc><lastmod>2021-06-10T21:54:46&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
             <loc>/en/categories/huberman-podcast/</loc><lastmod>2021-06-10T21:54:46&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
@@ -58,6 +66,6 @@
             <loc>/en/tags/nervous-system/</loc><lastmod>2021-06-10T21:54:46&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
             <loc>/en/tags/neuroscience/</loc><lastmod>2021-06-10T21:54:46&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
             <loc>/en/tags/podcast/</loc><lastmod>2021-06-10T21:54:46&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>/en/tags/respiration/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/en/tags/respiration/</loc><lastmod>2021-06-24T21:37:44&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/en/tags/self-improvement/</loc><lastmod>2021-06-10T21:54:46&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>/en/tags/syst%C3%A8me-nerveux/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>/en/tags/syst%C3%A8me-nerveux/</loc><lastmod>2021-06-24T21:37:44&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
