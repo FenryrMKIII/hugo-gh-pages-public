@@ -1,31 +1,16 @@
-<urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xhtml="http://www.w3.org/1999/xhtml"
-    ><url>
-            <loc>https://fenryrmkiii.github.io/theme-documentation-built-in-shortcodes/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://fenryrmkiii.github.io/theme-documentation-extended-shortcodes/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://fenryrmkiii.github.io/basic-markdown-syntax/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://fenryrmkiii.github.io/emoji-support/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://fenryrmkiii.github.io/categories/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://fenryrmkiii.github.io/tags/configuration/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://fenryrmkiii.github.io/tags/installation/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://fenryrmkiii.github.io/posts/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://fenryrmkiii.github.io/tags/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://fenryrmkiii.github.io/theme-documentation-basics/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://fenryrmkiii.github.io/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://fenryrmkiii.github.io/tags/content/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://fenryrmkiii.github.io/tags/markdown/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://fenryrmkiii.github.io/theme-documentation-content/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://fenryrmkiii.github.io/tags/shortcodes/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://fenryrmkiii.github.io/tags/html/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://fenryrmkiii.github.io/categories/markdown/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://fenryrmkiii.github.io/tags/emoji/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://fenryrmkiii.github.io/about/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://fenryrmkiii.github.io/categories/documentation/</loc><lastmod>2021-05-26T07:36:54&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://fenryrmkiii.github.io/tags/huberman/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://fenryrmkiii.github.io/episode1/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://fenryrmkiii.github.io/categories/huberman-podcast/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://fenryrmkiii.github.io/tags/nervous-system/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://fenryrmkiii.github.io/tags/neuroscience/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://fenryrmkiii.github.io/tags/podcast/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://fenryrmkiii.github.io/tags/self-improvement/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>en/sitemap.xml</loc>
+    
+      <lastmod>2021-06-10T21:54:46+02:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>fr/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
