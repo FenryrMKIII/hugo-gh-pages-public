@@ -1,4 +1,6 @@
-# Bien respirer, c'est la clé
+# S'écouter, ressentir, explorer
 
 
-This is a post
+Aucune pratique, si elle se veut efficace, ne peut être passive.
+
+

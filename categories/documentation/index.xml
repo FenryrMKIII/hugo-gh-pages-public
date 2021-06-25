@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Documentation - Catégorie - uBlogger</title>
+        <title>documentation - Catégorie - uBlogger</title>
         <link>/categories/documentation/</link>
-        <description>Documentation - Catégorie - uBlogger</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="/categories/documentation/" rel="self" type="application/rss+xml" /><item>
+        <description>documentation - Catégorie - uBlogger</description>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate><atom:link href="/categories/documentation/" rel="self" type="application/rss+xml" /><item>
     <title>Theme Documentation - Built-in Shortcodes</title>
     <link>/index.en/</link>
     <pubDate>Wed, 04 Mar 2020 16:29:41 &#43;0800</pubDate>
