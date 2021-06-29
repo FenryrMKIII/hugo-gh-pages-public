@@ -1,6 +1,8 @@
 # Qui suis-je ?
 
 
+![Sandbags bed](sandbagsbed_avatar.png)
+
 Ingénieur civil de formation et sportif passionné!
 
 J'ai 15 années d'athlétisme, en particulier le sprint, dans les mollets ainsi qu'une dizaine d'années de "fitness" derrière moi alternant salles de gym, box de crossfit, running, trail, ...
